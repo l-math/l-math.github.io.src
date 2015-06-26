@@ -1,0 +1,19 @@
+{
+  "name": "l-math.github.io.src",
+  "version": "1.0.0",
+  "description": "l-math site source",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/l-math/l-math.github.io.src.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/l-math/l-math.github.io.src/issues"
+  },
+  "homepage": "https://github.com/l-math/l-math.github.io.src"
+}
